@@ -1,0 +1,5 @@
+
+*.pyc
+.pyvnet_env/
+.vscode
+test.py
